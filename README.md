@@ -45,7 +45,7 @@ Que vous soyez développeur, philosophe, jardinier ou simplement humain :
 2.  **Codez pour le Bien :** Participez à nos outils open-source pour l'autonomie (voir `PROJECTS.md`).
 3.  **Agissez Localement :** La synchronicité commence par un geste simple envers votre voisin.
 
-> *"Nous travaillons activement à empêcher la manifestation d'un futur où la vie dépend d'un abonnement."*
+> *"Nous travaillons activement à empêcher la manifestation d'un futur où la vie dépend d'un abonnement. Venez planter des idées avec nous, pour un jours, récolter un meilleur futur."*
 
 ---
 **Maintenu par le Collectif Lichen.**
