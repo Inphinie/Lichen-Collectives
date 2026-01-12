@@ -53,3 +53,4 @@ Que vous soyez développeur, philosophe, jardinier ou simplement humain :
 ---
 **Maintenu par le Collectif Lichen.**
 *Pacifistes. Actifs. Indomptables.*
+---
