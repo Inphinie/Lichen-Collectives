@@ -1,3 +1,6 @@
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/769a693f-e291-4e77-b453-1e9d255dc013" />
+
+
 # 🌿 lichen-collectives
 
 ![Status](https://img.shields.io/badge/Status-Active%20Symbiosis-green)
