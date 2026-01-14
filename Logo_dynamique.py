@@ -85,6 +85,7 @@ def update(frame):
     return scat,
 
 print("👁️  Ouverture de la Rétine du Lichen...")
+---
 ani = animation.FuncAnimation(fig, update, frames=200, interval=30, blit=False)
 
 plt.show()
